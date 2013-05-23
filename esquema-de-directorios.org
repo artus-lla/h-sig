@@ -1,0 +1,33 @@
+#+TITLE: Esquema de directorios h-sig
+#+DATE: <2013-03-25 lun>
+
+* h-sig
+*** data base
+**** desing
+**** sql     
+
+*** documentacion
+**** git
+**** postgreSQL
+**** python     
+
+*** seguimiento
+**** Archivos de seguimiento del proyecto. Archivos de proyecto, alcances.     
+
+** src   
+*** ui
+    Archivos de interfaz de usuario, siguiendo el patron MVC
+
+**** resources
+***** images
+***** icons
+
+
+*** bin
+    Archivos .py de la aplicación    
+
+*** controller
+    Módulos o librerias python    
+
+*** doc
+    Documentación del sistema h-sig, manual de usuario, manual de referencia.
