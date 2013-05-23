@@ -1,0 +1,4 @@
+El sistema informático H-SIG utilizará para su desarrollo el lenguaje de
+programación Python, para la persitencia de datos se usará PostgreSQL y para la
+creación de la Interfaz Gráfica se usará las librerías GTK+ usando el diseñador
+de interfaces Glade para la creación de las ventanas.
